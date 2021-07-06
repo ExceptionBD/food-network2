@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;margin: 0%;
+}
+
+.first-word{
+    color: chocolate;
+    font-size: 50px;
+    
+}
+.t1{
+    font-size: 50px;
+   
+}
+.flexeble-container{
+    display: flex;
+     padding: 20px;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+    text-align: left;
+}
+
+
+  
+  .s2{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 0;
+    margin: 50px 0;
+    
+  }
+
+  .girl{
+     margin-left: 80px;
+
+
+    width:50%; 
+ }
+
+ .single-image{
+     width: 50%;
+
+ }
+ .right{
+     width: 50%;
+    
+     padding-top: 10px;
+     margin: 0 10px;
+     
+ }
+ .button2{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+    text-align-last: right;}
+
+    .center{
+        text-align: center;
+    }
+   .row{
+display: flex;
+   }
+
+    .column {
+       
+        width: 30%;
+        padding: 10px;
+        height: 500px;
+        margin-left: 6%;
+        background-color: rgb(236, 215, 215);
+        border-color: violet;
+        border-radius: 10px;
+    }
+    .column img{
+        width: 100%;
+    }
+    
+   .footer{
+      
+   }
+
+   .food{
+       color: darkmagenta;
+   }
+   
