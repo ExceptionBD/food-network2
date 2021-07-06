@@ -67,6 +67,7 @@ body{
     }
    .row{
 display: flex;
+margin-right: 20px;
    }
 
     .column {
@@ -84,6 +85,11 @@ display: flex;
     }
     
    .footer{
+    padding: 10px 0;
+    margin-top: 10px;
+       background-color: black;
+       color: white;
+       text-align: center;
       
    }
 
